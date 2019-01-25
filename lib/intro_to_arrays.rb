@@ -8,7 +8,7 @@ def array_with_two_elements
   @my_new_arrays = ["nina", "dasha"]
 end
 
-def my_first_element
+def my_first_element(firs_element)
    @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
    @taylor_swift[0]
  end
