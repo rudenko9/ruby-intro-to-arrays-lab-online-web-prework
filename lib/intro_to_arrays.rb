@@ -20,7 +20,7 @@ def first_element(my_first_element)
    @taylor_swift[-1]
  end
 def length(length_of_array)
-  @programming_language.length
+  .length
   
 end
   
