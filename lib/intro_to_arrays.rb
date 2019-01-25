@@ -24,7 +24,7 @@ def first_element(my_first_element)
    @south_east_asia.first
  end
  
- def last_element_with_array_method(last_country)
+ def last_element_with_array_methods(last_country)
    @south_east_asia.last
  end
  
