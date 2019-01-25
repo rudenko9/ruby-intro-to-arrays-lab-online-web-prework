@@ -9,4 +9,5 @@ def array_with_two_elements
 end
 
 def 
-  
+   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+   @taylor_swift
