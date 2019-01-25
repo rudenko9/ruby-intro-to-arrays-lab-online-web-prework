@@ -20,6 +20,6 @@ def first_element(my_first_element)
    @taylor_swift[-1]
  end
  
- def first_element(first_element_with_array_method)
+ def 
   
  end
