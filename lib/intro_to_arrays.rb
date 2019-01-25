@@ -19,7 +19,7 @@ def first_element(my_first_element)
  def last_element(my_last_element)
    @taylor_swift[-1]
  end
-def first_country(first_element_with_array_method)
+def first_country("Thailand")
   @south_east_asia("first_country")
 end
   
