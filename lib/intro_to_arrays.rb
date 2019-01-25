@@ -5,5 +5,5 @@ end
 
 def array_with_two_elements
   @my_new_arrays = ["nina", "dasha", "mila"]
-  @my_new_arrays = [3]
+  @my_new_arrays = ["nina", "dasha"]
 end
