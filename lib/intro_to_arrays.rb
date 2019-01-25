@@ -21,7 +21,7 @@ def first_element(my_first_element)
  end
  
  def first_element_with_array_method(first_country)
-   @south_east_asia.first_country
+   @south_east_asia#first_country
  end
  
  
