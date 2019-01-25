@@ -20,8 +20,8 @@ def first_element(my_first_element)
    @taylor_swift[-1]
  end
  
- def first_element_with_array_method(first_country)
-   @south_east_asia#first_country
+ def first_country(first_element_with_array_method)
+   @south_east_asia.first_country
  end
  
  
