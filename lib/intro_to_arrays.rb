@@ -19,7 +19,7 @@ def first_element(my_first_element)
  def last_element(my_last_element)
    @taylor_swift[-1]
  end
-def length(length_of_array)
+def length_of_array
   ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"].length
   
 end
