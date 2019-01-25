@@ -19,7 +19,6 @@ def first_element(my_first_element)
  def last_element(my_last_element)
    @taylor_swift[-1]
  end
- 
- def 
+
   
- end
+ 
