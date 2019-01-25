@@ -21,5 +21,5 @@ def first_element(my_first_element)
  end
  
  def first_element(first_element_with_array_method)
-   @south_east_asia.index ("Thailand")
+   @south_east_asia[]
  end
